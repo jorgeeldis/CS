@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\bin\Debug\netcoreapp3.1\AssignmentOp.exe
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\bin\Debug\netcoreapp3.1\AssignmentOp.deps.json
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\bin\Debug\netcoreapp3.1\AssignmentOp.runtimeconfig.json
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\bin\Debug\netcoreapp3.1\AssignmentOp.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\bin\Debug\netcoreapp3.1\AssignmentOp.dll
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\bin\Debug\netcoreapp3.1\AssignmentOp.pdb
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.dll
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.pdb
+C:\MyStuff\Coding\C#\AssignmentOp\AssignmentOp\obj\Debug\netcoreapp3.1\AssignmentOp.genruntimeconfig.cache

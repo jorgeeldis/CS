@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\bin\Debug\netcoreapp3.1\AreaCircle.exe
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\bin\Debug\netcoreapp3.1\AreaCircle.deps.json
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\bin\Debug\netcoreapp3.1\AreaCircle.runtimeconfig.json
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\bin\Debug\netcoreapp3.1\AreaCircle.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\bin\Debug\netcoreapp3.1\AreaCircle.dll
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\bin\Debug\netcoreapp3.1\AreaCircle.pdb
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.dll
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.pdb
+C:\MyStuff\Coding\C#\AreaCircle\AreaCircle\obj\Debug\netcoreapp3.1\AreaCircle.genruntimeconfig.cache
