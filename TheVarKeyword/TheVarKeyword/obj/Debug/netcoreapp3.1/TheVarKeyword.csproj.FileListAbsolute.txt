@@ -1,0 +1,3 @@
+C:\MyStuff\Coding\C#\TheVarKeyword\TheVarKeyword\obj\Debug\netcoreapp3.1\TheVarKeyword.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\TheVarKeyword\TheVarKeyword\obj\Debug\netcoreapp3.1\TheVarKeyword.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\TheVarKeyword\TheVarKeyword\obj\Debug\netcoreapp3.1\TheVarKeyword.csproj.CoreCompileInputs.cache
