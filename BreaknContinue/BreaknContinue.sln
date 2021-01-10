@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreaknContinue", "BreaknContinue\BreaknContinue.csproj", "{6479BE4B-47D7-40F2-8392-3C2AC977C56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6479BE4B-47D7-40F2-8392-3C2AC977C56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6479BE4B-47D7-40F2-8392-3C2AC977C56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6479BE4B-47D7-40F2-8392-3C2AC977C56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6479BE4B-47D7-40F2-8392-3C2AC977C56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7BB82B3-3C4D-4627-B8A5-6902A7FFAF0C}
+	EndGlobalSection
+EndGlobal
