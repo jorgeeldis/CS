@@ -1,13 +1,12 @@
-C:\MyStuff\Coding\C#\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.exe
-C:\MyStuff\Coding\C#\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
-C:\MyStuff\Coding\C#\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
-C:\MyStuff\Coding\C#\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
-C:\MyStuff\Coding\C#\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.dll
-C:\MyStuff\Coding\C#\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.dll
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
-C:\MyStuff\Coding\C#\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+C:\Users\Jorge Eldis\source\repos\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache

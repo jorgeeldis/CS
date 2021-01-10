@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyStuff\\Coding\\C#\\Practice\\Practice\\Practice.csproj",
+      "projectUniqueName": "C:\\Users\\Jorge Eldis\\source\\repos\\Practice\\Practice\\Practice.csproj",
       "projectName": "Practice",
-      "projectPath": "C:\\MyStuff\\Coding\\C#\\Practice\\Practice\\Practice.csproj",
+      "projectPath": "C:\\Users\\Jorge Eldis\\source\\repos\\Practice\\Practice\\Practice.csproj",
       "packagesPath": "C:\\Users\\Jorge Eldis\\.nuget\\packages\\",
-      "outputPath": "C:\\MyStuff\\Coding\\C#\\Practice\\Practice\\obj\\",
+      "outputPath": "C:\\Users\\Jorge Eldis\\source\\repos\\Practice\\Practice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jorge Eldis\\AppData\\Roaming\\NuGet\\NuGet.Config",

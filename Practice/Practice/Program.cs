@@ -6,9 +6,8 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            int x = 15;
-            int y = 6;
-            x %= y;
+            int x = 4; int y = 9;
+            x = (y % x != 0) ? y / x : y;
             Console.WriteLine(x);
         }
     }
