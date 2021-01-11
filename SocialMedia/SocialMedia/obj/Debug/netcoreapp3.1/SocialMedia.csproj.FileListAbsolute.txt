@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\SocialMedia.exe
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\SocialMedia.deps.json
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\SocialMedia.runtimeconfig.json
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\SocialMedia.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\SocialMedia.dll
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\bin\Debug\netcoreapp3.1\SocialMedia.pdb
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.dll
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.pdb
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.genruntimeconfig.cache
+C:\MyStuff\Coding\C#\SocialMedia\SocialMedia\obj\Debug\netcoreapp3.1\SocialMedia.csprojAssemblyReference.cache
