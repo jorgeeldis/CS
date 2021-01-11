@@ -1,0 +1,13 @@
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\bin\Debug\netcoreapp3.1\LevelPoints.exe
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\bin\Debug\netcoreapp3.1\LevelPoints.deps.json
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\bin\Debug\netcoreapp3.1\LevelPoints.runtimeconfig.json
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\bin\Debug\netcoreapp3.1\LevelPoints.runtimeconfig.dev.json
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\bin\Debug\netcoreapp3.1\LevelPoints.dll
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\bin\Debug\netcoreapp3.1\LevelPoints.pdb
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.csprojAssemblyReference.cache
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.AssemblyInfoInputs.cache
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.AssemblyInfo.cs
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.dll
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.pdb
+C:\Users\Jorge Eldis\source\repos\LevelPoints\LevelPoints\obj\Debug\netcoreapp3.1\LevelPoints.genruntimeconfig.cache
