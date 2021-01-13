@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\bin\Debug\netcoreapp3.1\ArrayP.exe
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\bin\Debug\netcoreapp3.1\ArrayP.deps.json
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\bin\Debug\netcoreapp3.1\ArrayP.runtimeconfig.json
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\bin\Debug\netcoreapp3.1\ArrayP.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\bin\Debug\netcoreapp3.1\ArrayP.dll
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\bin\Debug\netcoreapp3.1\ArrayP.pdb
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.dll
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.pdb
+C:\MyStuff\Coding\C#\ArrayP\ArrayP\obj\Debug\netcoreapp3.1\ArrayP.genruntimeconfig.cache
