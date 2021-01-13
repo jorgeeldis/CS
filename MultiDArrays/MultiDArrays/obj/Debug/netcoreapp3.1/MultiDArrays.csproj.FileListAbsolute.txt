@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\bin\Debug\netcoreapp3.1\MultiDArrays.exe
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\bin\Debug\netcoreapp3.1\MultiDArrays.deps.json
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\bin\Debug\netcoreapp3.1\MultiDArrays.runtimeconfig.json
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\bin\Debug\netcoreapp3.1\MultiDArrays.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\bin\Debug\netcoreapp3.1\MultiDArrays.dll
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\bin\Debug\netcoreapp3.1\MultiDArrays.pdb
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.dll
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.pdb
+C:\MyStuff\Coding\C#\MultiDArrays\MultiDArrays\obj\Debug\netcoreapp3.1\MultiDArrays.genruntimeconfig.cache

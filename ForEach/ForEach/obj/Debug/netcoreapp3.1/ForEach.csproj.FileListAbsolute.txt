@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+C:\MyStuff\Coding\C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+C:\MyStuff\Coding\C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+C:\MyStuff\Coding\C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+C:\MyStuff\Coding\C#\ForEach\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+C:\MyStuff\Coding\C#\ForEach\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
