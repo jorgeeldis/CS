@@ -1,0 +1,12 @@
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\bin\Debug\netcoreapp3.1\OperationOverloading.exe
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\bin\Debug\netcoreapp3.1\OperationOverloading.deps.json
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\bin\Debug\netcoreapp3.1\OperationOverloading.runtimeconfig.json
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\bin\Debug\netcoreapp3.1\OperationOverloading.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\bin\Debug\netcoreapp3.1\OperationOverloading.dll
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\bin\Debug\netcoreapp3.1\OperationOverloading.pdb
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\obj\Debug\netcoreapp3.1\OperationOverloading.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\obj\Debug\netcoreapp3.1\OperationOverloading.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\obj\Debug\netcoreapp3.1\OperationOverloading.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\obj\Debug\netcoreapp3.1\OperationOverloading.dll
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\obj\Debug\netcoreapp3.1\OperationOverloading.pdb
+C:\MyStuff\Coding\C#\OperationOverloading\OperationOverloading\obj\Debug\netcoreapp3.1\OperationOverloading.genruntimeconfig.cache
