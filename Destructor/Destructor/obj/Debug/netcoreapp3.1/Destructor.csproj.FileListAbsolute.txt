@@ -1,0 +1,13 @@
+C:\MyStuff\Coding\C#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.exe
+C:\MyStuff\Coding\C#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.deps.json
+C:\MyStuff\Coding\C#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.json
+C:\MyStuff\Coding\C#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.runtimeconfig.dev.json
+C:\MyStuff\Coding\C#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.dll
+C:\MyStuff\Coding\C#\Destructor\Destructor\bin\Debug\netcoreapp3.1\Destructor.pdb
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csprojAssemblyReference.cache
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfoInputs.cache
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.AssemblyInfo.cs
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.csproj.CoreCompileInputs.cache
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.dll
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.pdb
+C:\MyStuff\Coding\C#\Destructor\Destructor\obj\Debug\netcoreapp3.1\Destructor.genruntimeconfig.cache
